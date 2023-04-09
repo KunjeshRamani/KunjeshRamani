@@ -25,4 +25,8 @@
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
-![snake gif](https://github.com/Kunjesh9867/Kunjesh9867/blob/output/github-contribution-grid-snake.gif)
+### Thanks for Visiting my GitHub Profile!
+---
+<p align="center">
+<img src="https://github.com/Kunjesh9867/Kunjesh9867/blob/output/github-contribution-grid-snake.gif">
+</p>
