@@ -3,7 +3,7 @@
 <h3 align="center"><b>A Student of Georgian College</b></h3>
 
 [![](https://visitcount.itsvg.in/api?id=Kunjesh9867&icon=1&color=5)](https://visitcount.itsvg.in)<br>
->I am currently enrolled in **<code>Diploma in Computer Programming (CMPG)</code>** course at Georgian College.
+## I am currently enrolled in **<code>Diploma in Computer Programming (CMPG)</code>** course at Georgian College.
 
 # 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/kunjesh.ramani.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kunjesh_kkr/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunjesh-ramani-989a27206/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Kunjesh-Ramani-1) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Kunjesh9867) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16986113) 
