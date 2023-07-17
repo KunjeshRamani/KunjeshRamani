@@ -70,5 +70,6 @@ Version Control
 
 <h1 align="center">Thanks for Visiting my GitHub Profile!</h1>
 <p align="center">
-<img src="https://github.com/Kunjesh9867/Kunjesh9867/blob/output/github-contribution-grid-snake.gif">
+<!-- <img src="https://github.com/Kunjesh9867/Kunjesh9867/blob/output/github-contribution-grid-snake.gif"> -->
+  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 </p>
