@@ -9,7 +9,7 @@
 
 # 🌐 Socials
 
-<div style="display: inline_block"><br>
+<div display: inline_block "><br>
   <a href = "https://www.linkedin.com/in/kunjesh-ramani-989a27206/"> <img height="40" align="center" alt="" height="30" width="40" src="https://icongr.am/fontawesome/linkedin-square.svg?size=128&color=3b5998"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href = "https://www.quora.com/profile/Kunjesh-Ramani-1"> <img height="50" align="center" alt="" height="30" width="40" src="https://icongr.am/fontawesome/quora.svg?size=128&color=b92b27"></a>
@@ -30,7 +30,8 @@
 
 # 💻 Tech Stack
 
-## Technologies
+# Technologies
+
 <div style="display: inline_block"><br>
   <img height="40" align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -53,7 +54,7 @@
   <img height="40" align="center" alt="Erica-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="Erica-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
-</div>
+</div><br>
 
 ## Databases
 <div style="display: inline_block"><br>
