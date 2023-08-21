@@ -85,7 +85,7 @@
   <img height="40" align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div><br>
 
-## Design / Visual Tool<
+## Design / Visual Tool
 
 <div style="display: inline_block"><br>
   <img height="40" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
@@ -128,7 +128,7 @@
 # 🎵<code>Spotify</code>
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31qe2kt45xyudaxpnsdajburwmoq&unique=true)
 
-<img src="https://github.com/Kunjesh9867/Kunjesh9867/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only" />
+<img src="https://github.com/Kunjesh9867/Kunjesh9867/blob/output/github-contribution-grid-snake-dark.svg" />
 
 <h1 align="center">Thanks for Visiting my GitHub Profile!</h1>
 <p align="center"></p>
