@@ -50,7 +50,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Kunjesh9867/Kunjesh9867/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Kunjesh9867/Kunjesh9867/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
 
 ###
 
