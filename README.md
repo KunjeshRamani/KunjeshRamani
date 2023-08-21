@@ -7,7 +7,7 @@
 
 ### I am currently enrolled in **<code>Diploma in Computer Programming (CMPG)</code>** course at Georgian College
 
-# 🌐 **Socials**
+# 🌐<code>Socials</code>
 
 <div display: inline_block "><br>
   <a href = "https://www.linkedin.com/in/kunjesh-ramani-989a27206/"> <img height="40" align="center" src="https://icongr.am/fontawesome/linkedin-square.svg?size=128&color=3b5998"></a>
@@ -28,7 +28,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div><br>
 
-# 💻 Tech Stack
+# 💻<code>Tech Stack</code>
 
 ## Technologies
 
@@ -85,7 +85,7 @@
   <img height="40" align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div><br>
 
-## Design / Visual Tools
+## Design / Visual Tool<
 
 <div style="display: inline_block"><br>
   <img height="40" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
@@ -119,13 +119,13 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div><br><br><br>
 
-# 📊 GitHub Stats
+# 📊<code>GitHub Stats</code>
 
 ![](https://github-readme-stats.vercel.app/api?username=Kunjesh9867&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kunjesh9867&theme=radical&hide_border=true)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunjesh9867&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-# 🎵 Spotify
+# 🎵<code>Spotify</code>
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31qe2kt45xyudaxpnsdajburwmoq&unique=true)
 
 <img src="https://raw.githubusercontent.com/Kunjesh9867/Kunjesh9867/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
