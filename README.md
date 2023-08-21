@@ -126,8 +126,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunjesh9867&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 # 🎵 Spotify
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31qe2kt45xyudaxpnsdajburwmoq)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31qe2kt45xyudaxpnsdajburwmoq&unique=true)
 
 <img src="https://raw.githubusercontent.com/Kunjesh9867/Kunjesh9867/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
 
