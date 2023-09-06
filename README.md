@@ -121,7 +121,7 @@
 
 # 📊<code>GitHub Stats</code>
 
-![](https://github-readme-stats.vercel.app/api?username=Kunjesh9867&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Kunjesh9867&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kunjesh9867&theme=radical&hide_border=true)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunjesh9867&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
