@@ -126,9 +126,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunjesh9867&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 # 🎵<code>Spotify</code>
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31qe2kt45xyudaxpnsdajburwmoq&unique=true)
 
-<!-- <img src="https://github.com/Kunjesh9867/Kunjesh9867/blob/output/github-contribution-grid-snake-dark.svg" /> -->
+<div align='center'>
+<img src="./icons/github-contribution-grid-snake-dark.svg" />
+<!-- <img src="https://github.com/Kunjesh9867/Kunjesh9867/blob/output/github-contribution-grid-snake-dark.svg" /> --> </div>
 
 <h1 align="center">Thanks for Visiting my GitHub Profile!</h1>
 <p align="center"></p>
