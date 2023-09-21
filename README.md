@@ -3,7 +3,7 @@
 
 <h3 align="center"><b>A Student of Georgian College</b></h3>
 
-[![View-Count](https://visitcount.itsvg.in/api?id=Kunjesh9867&icon=1&color=5)](https://visitcount.itsvg.in)<br>
+<!--[![](https://visitcount.itsvg.in/api?id=Kunjesh9867&icon=1&color=5)](https://visitcount.itsvg.in)<br>-->
 
 ### I am currently enrolled in **<code>Diploma in Computer Programming (CMPG)</code>** course at Georgian College
 
