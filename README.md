@@ -135,3 +135,100 @@
 
 <h1 align="center">Thanks for Visiting my GitHub Profile!</h1>
 <p align="center"></p>
+
+
+//
+//  ViewController.swift
+//  Exercise02
+//
+//  Created by Kunjesh Kantilal Ramani on 2023-11-04.
+//
+
+import UIKit
+
+class ViewController: UIViewController {
+    
+    // Swift Override function
+    // Added: Change alphabetic pad to numeric pad
+    override func viewDidLoad() {
+            super.viewDidLoad()
+            // Set default custom tip percentage
+            // updateTipLabels()
+            // Add a target-action for value change event of the slider
+    
+    }
+    
+    // Extra Functionality
+    // DAY-NIGHT
+//    @IBOutlet weak var segControl: UISegmentedControl!
+//    @IBAction func changingTheme(_ sender: Any) {
+//
+//
+//            if segControl?.selectedSegmentIndex == 0
+//            {
+//                self.view.backgroundColor = UIColor.white
+//            }
+//            else if segControl?.selectedSegmentIndex == 1 {
+//                self.view.backgroundColor = UIColor.gray
+//            }
+//    }
+    
+
+    @IBOutlet weak var amount: UITextField!
+    
+    // Variables
+   
+    @IBOutlet weak var tipPercentage: UITextField!
+
+    // Labels
+    @IBOutlet weak var tipLabel1: UILabel! // 15%
+    @IBOutlet weak var tipLabel2: UILabel! // Custom
+    @IBOutlet weak var customTipLabel: UITextField!
+    
+
+    @IBOutlet weak var total1: UILabel!
+    @IBOutlet weak var total2: UILabel!
+    
+    @IBAction func sliderTipCalc(_ sender: UISlider) {
+        var resultString: String
+        if let unwrappedAmount = amount?.text, !unwrappedAmount.isEmpty {
+            resultString = unwrappedAmount
+            print(resultString)
+            
+            tipPercentage.text = Int(round(sender.value)).description
+            
+            let tipAmountfifteen = 0.15 * Double(resultString)!
+            tipLabel1.text = String(format: "%.2f", tipAmountfifteen)
+            
+            let totalAmountfifteen = Double(resultString)! + (Double(tipAmountfifteen))
+            
+            total1.text = String(format: "%.2f", totalAmountfifteen)
+            
+            let tipAmountCustom =  Double(round(sender.value)) * Double(resultString)!
+            tipLabel2.text = String(format: "%.2f", tipAmountCustom)
+            
+            let totalAmountCustom = Double(resultString)! + tipAmountCustom
+            total1.text = String(format: "%.2f", totalAmountCustom)
+            
+            
+        } else {
+            tipPercentage.text = Int(round(sender.value)).description + " %"
+         customTipLabel.text = Int(round(sender.value)).description + " %"
+        }
+       
+        
+    }
+    
+    
+    func clearLabels() {
+            tipLabel1.text = ""
+            tipLabel2.text = ""
+            total1.text = ""
+            total2.text = ""
+            customTipLabel.text = ""
+        }
+    
+   
+}
+
+
