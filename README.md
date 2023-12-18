@@ -86,9 +86,15 @@
 
 # 📊<code>GitHub Stats</code>
 
-![](https://github-readme-stats.vercel.app/api?username=Kunjesh9867&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Kunjesh9867&theme=monokai-metallian&hide_border=true) <br>
+![](https://denvercoder1-github-readme-stats.vercel.app/api/?username=Kunjesh9867&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
+![](https://github-readme-activity-graph.vercel.app/graph/?username=Kunjesh9867&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
+
+
+<!--![](https://github-readme-stats.vercel.app/api?username=Kunjesh9867&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kunjesh9867&theme=radical&hide_border=true)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunjesh9867&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Kunjesh9867&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunjesh9867&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
 
 # 🎵<code>Spotify</code>
 
