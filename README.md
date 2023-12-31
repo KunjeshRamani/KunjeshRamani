@@ -83,7 +83,7 @@
 
   <img height="40" align="center" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
 
-  <img height="40" align="center" height="40" width="30" src="./icons/Bootstrap-Bootstrap-Bootstrap-filetype-xml.512.png" />
+  <img height="40" align="center" height="40" width="30" src="./icons/Hopstarter-Adobe-Cs4-File-Adobe-Dreamweaver-XML-01.256.png" />
   <br><br>
 
 # 📊<code>GitHub Stats</code>
