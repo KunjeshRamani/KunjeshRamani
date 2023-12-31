@@ -83,7 +83,7 @@
 
   <img height="40" align="center" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
 
-  <img height="40" align="center" height="40" width="30" src="./icons/Custom-Icon-Design-Flatastic-9-Xml-tool.512.pngg" />
+  <img height="40" align="center" height="40" width="30" src="./icons/Custom-Icon-Design-Flatastic-9-Xml-tool.512.png" />
   <br><br>
 
 # 📊<code>GitHub Stats</code>
