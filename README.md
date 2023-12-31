@@ -82,6 +82,8 @@
   <img height="40" align="center" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
 
   <img height="40" align="center" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
+
+  <img height="40" align="center" height="40" width="30" src="./icons/XML.svg" />
   <br><br>
 
 # 📊<code>GitHub Stats</code>
