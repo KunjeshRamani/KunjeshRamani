@@ -68,13 +68,7 @@
   <img height="40" align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img height="40" align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> 
   <img height="40" align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img height="40" align="center" height="40" width="30" src="./icons/Custom-Icon-Design-Flatastic-9-Xml-tool.512.png" />
-
-
-
- 
- 
-
+  <img height="40" align="center" height="40" width="40" src="./icons/Custom-Icon-Design-Flatastic-9-Xml-tool.512.png" />
 
   <img height="40" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
   <img height="40" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />  
