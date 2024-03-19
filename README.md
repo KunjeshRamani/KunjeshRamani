@@ -2,8 +2,6 @@
 
 <h3 align="center"><b>A Student of Georgian College</b></h3>
 
-<!--[![](https://visitcount.itsvg.in/api?id=Kunjesh9867&icon=1&color=5)](https://visitcount.itsvg.in)<br>-->
-
 ### I am currently enrolled in **<code>Diploma in Computer Programming (CMPG)</code>** course at Georgian College
 
 # 🌐<code>Socials</code>
@@ -39,38 +37,27 @@
   <img height="40" align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   
   <img height="40" align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
- 
+
   <img height="40" align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
 
   <img height="40" align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
 
   <img height="40" align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
 
-  <img height="40" align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"> 
+  <img height="40" align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
   
   <img height="40" align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
-          
-  
+
   <img height="40" align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-          
-
-  <!-- <img height="40" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
-
-  <img height="40" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-
-  <img height="40" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"> -->
-
-
 
   <img height="40" align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img height="40" align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="40" align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img height="40" align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> 
+  <img height="40" align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img height="40" align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img height="40" align="center" height="40" width="40" src="./icons/selenium-svgrepo-com.svg" />
   <img height="40" align="center" height="40" width="40" src="./icons/Custom-Icon-Design-Flatastic-9-Xml-tool.512.png" />
 
-  
   <img height="40" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
   <img height="40" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />  
   <img height="40" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />  
@@ -79,71 +66,29 @@
 
   <img height="40" align="center" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
 
-  
   <br><br>
 
 # 📊<code>GitHub Stats</code>
 
-
-
-<!--
-![](https://streak-stats.demolab.com/?user=Kunjesh9867&theme=radical&hide_border=true) <br>
-![](https://denvercoder1-github-readme-stats.vercel.app/api/?username=Kunjesh9867&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kunjesh9867&theme=radical)  -->
-
-<!-- ![](https://github-readme-activity-graph.vercel.app/graph/?username=Kunjesh9867&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true) -->
-
-
-<!--![](https://github-readme-stats.vercel.app/api?username=Kunjesh9867&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kunjesh9867&theme=radical&hide_border=true)<br>
-![](https://github-readme-activity-graph.vercel.app/graph?username=Kunjesh9867&theme=dracula)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunjesh9867&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
-
-<!--
-# 🎵<code>Spotify</code>
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31qe2kt45xyudaxpnsdajburwmoq&unique=true)
--->
-
-
-<!-- <img src="https://github.com/Kunjesh9867/Kunjesh9867/blob/output/github-contribution-grid-snake-dark.svg" /> </div> -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunjesh9867&theme=radical&hide_border=true" alt="Saif's GitHub streak"/>
+  <a href="https://github.com/Kunjesh9867">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunjesh9867&theme=radical&hide_border=true" alt="Kunjesh GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kunjesh9867&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  <a href="https://github.com/Kunjesh9867">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kunjesh9867&theme=radical" alt="Kunjesh GitHub Contribution"/>
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/alsiam"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Kunjesh9867&show_icons=true&count_private=true&theme=radical&hide_border=true" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Kunjesh9867&langs_count=8&layout=compact&theme=radical&hide_border=true" height="192px" width="49.5%"/></a>
+<a>
+    <a href="https://github.com/Kunjesh9867"><img alt="Kunjesh Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Kunjesh9867&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/alsiam"><img alt="Kunjesh Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Kunjesh9867&langs_count=8&layout=compact&theme=radical&hide_border=true" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
-
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kunjesh9867&theme=radical&hide_border=true&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-
+![Kunjesh Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kunjesh9867&theme=radical&hide_border=true&custom_title=Kunjesh%20Ramani's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <div align='center'>
 <img src="./icons/github-contribution-grid-snake-dark.svg" /></div>
