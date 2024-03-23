@@ -2,7 +2,7 @@
 
 <h3 align="center"><b>A Student of Georgian College</b></h3>
 
-### I am currently enrolled in **<code>Diploma in Computer Programming (CMPG)</code>** course at Georgian College
+### I recently graduated from the  **<code>Diploma in Computer Programming (CMPG)</code>** course at Georgian College
 
 # 🌐<code>Socials</code>
 
