@@ -17,8 +17,7 @@
   <a href = "https://www.w3profile.com/Kunjesh9867"> <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/W3Schools_logo.svg"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href = "https://www.hackerrank.com/kunjeshramani981?hr_r=1"> <img height="40" align="center" src="https://icongr.am/fontawesome/header.svg?size=128&color=378936"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href = "https://www.codechef.com/users/kunjesh_kkr"> <img height="100" align="center" src="./icons/codechef.png"></a>
+  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div><br><br>
 
