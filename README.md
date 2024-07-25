@@ -95,7 +95,7 @@
 ![Kunjesh Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kunjesh9867&theme=radical&hide_border=true&custom_title=Kunjesh%20Ramani's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 -->
 
-<div align='center'>
-<img src="./icons/github-contribution-grid-snake-dark.svg" /></div>
+
+<!-- <div align='center'> <img src="./icons/github-contribution-grid-snake-dark.svg" /></div> -->
 <h1 align="center">Thanks for Visiting my GitHub Profile!</h1>
 <p align="center"></p>
