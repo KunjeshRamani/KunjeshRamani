@@ -75,7 +75,9 @@
 
 <p align="center">
   <a href="https://github.com/Kunjesh9867">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunjesh9867&theme=radical&hide_border=true" alt="Kunjesh GitHub streak"/>
+    <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunjesh9867&theme=radical&hide_border=true" alt="Kunjesh GitHub streak"/> -->
+    <img src="https://github-readme-stats.zohan.tech/api?username=Kunjesh9867&show_icons=true&theme=radical&hide_border=true">
+    
   </a>
 </p>
 
