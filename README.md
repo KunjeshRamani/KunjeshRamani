@@ -1,3 +1,4 @@
+<img src="https://i.imgur.com/wcDXLFd.gif" width="100%">
 <!--Tbis jjz.z -->
 <h1 align="center"><b>Hi 👋, I'm Kunjesh Ramani</b></h1>
 
