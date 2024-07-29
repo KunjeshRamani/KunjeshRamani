@@ -20,13 +20,24 @@ I recently graduated with <code>Diploma in Computer Programming </code> course a
    "lname":"Ramani",
    "email":"kunjeshramani@gmail.com",
    "portfolio":"https://kunjeshramani.ca",
-   "linkedin": "https://www.linkedin.com/in/kunjeshramani"
+   "linkedin": "https://www.linkedin.com/in/kunjeshramani",
    "profession":"Full-stack Developer",
    "working on":"Cloud Computing",
+   "country": "Canada",
    "languages":[
       "Java",
       "Swift",
       "Python Core"
+   ],
+   "certifications":[
+      "AWS",
+      "Microsoft",
+      "Google",
+      "Oracle",
+      "GitHub",
+      "CCNA",
+      "IBM SkillsBuild",
+      "Udemy"
    ],
    "databases":[
       "MySQL",
@@ -39,12 +50,12 @@ I recently graduated with <code>Diploma in Computer Programming </code> course a
       "MERN",
       "Bootstrap"
    ],
-   "version control":[
+   "version controls":[
       "Git",
       "GitHub",
       "BitBucket"
    ],
-   "cloud":[
+   "clouds":[
       "AWS",
       "Azure",
       "GCP"
@@ -56,8 +67,7 @@ I recently graduated with <code>Diploma in Computer Programming </code> course a
       "XCode",
       "IntelliJ",
       "Eclipse"
-   ],
-   "country": "Canada"
+   ]
 }
 ```
 
