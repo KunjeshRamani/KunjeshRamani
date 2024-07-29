@@ -26,11 +26,6 @@ I recently graduated with <code>Diploma in Computer Programming</code> course an
    "profession":"Full-stack Developer",
    "working on":"Cloud Computing",
    "country": "Canada",
-   "languages":[
-      "Java",
-      "Swift",
-      "Python Core"
-   ],
    "certifications":[
       "AWS",
       "Microsoft",
@@ -40,6 +35,11 @@ I recently graduated with <code>Diploma in Computer Programming</code> course an
       "CCNA",
       "IBM SkillsBuild",
       "Udemy"
+   ],
+   "languages":[
+      "Java",
+      "Swift",
+      "Python Core"
    ],
    "databases":[
       "MySQL",
