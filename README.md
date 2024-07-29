@@ -161,7 +161,7 @@ I recently graduated with <code>Diploma in Computer Programming </code> course a
 
   <img height="40" align="center" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
 
-  <br><br>
+  <br>
 
 
 
