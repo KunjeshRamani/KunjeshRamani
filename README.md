@@ -4,9 +4,10 @@
 <h3 align="center"><b>A Student of Georgian College</b></h3>
 
 <div align="center">
-I recently graduated from <code>Diploma in Computer Programming<code> course at Georgian College and have since gained expertise in Frontend, Backend, Database Management and most recently, Cloud Computing.
-</div>
 
+I recently graduated with Diploma in Computer Programming </code> course at Georgian College and have since gained expertise in Frontend, Backend, Database Management and most recently, Cloud Computing.
+
+</div>
 
 ```json
 {
@@ -79,7 +80,6 @@ I recently graduated from <code>Diploma in Computer Programming<code> course at 
 # 💻<code>Tech Stack</code>
 
 </div>
-
 
 <div style="display: inline_block"><br>
   <img height="40" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
