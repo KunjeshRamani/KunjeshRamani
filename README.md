@@ -5,7 +5,7 @@
 
 <div align="center">
 
-I recently graduated with Diploma in Computer Programming </code> course at Georgian College and have since gained expertise in Frontend, Backend, Database Management and most recently, Cloud Computing.
+I recently graduated with <code>Diploma in Computer Programming </code> course at Georgian College and have since gained expertise in Frontend, Backend, Database Management and most recently, Cloud Computing.
 
 </div>
 
