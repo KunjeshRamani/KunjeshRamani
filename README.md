@@ -20,6 +20,7 @@ I recently graduated with <code>Diploma in Computer Programming </code> course a
    "lname":"Ramani",
    "email":"kunjeshramani@gmail.com",
    "portfolio":"https://kunjeshramani.ca",
+   "linkedin": "https://www.linkedin.com/in/kunjeshramani"
    "profession":"Full-stack Developer",
    "working on":"Cloud Computing",
    "languages":[
