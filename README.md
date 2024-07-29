@@ -1,10 +1,59 @@
 <img src="https://i.imgur.com/wcDXLFd.gif" width="100%">
-<!--Tbis jjz.z -->
 <h1 align="center"><b>Hi 👋, I'm Kunjesh Ramani</b></h1>
 
 <h3 align="center"><b>A Student of Georgian College</b></h3>
 
-### I recently graduated from the  **<code>Diploma in Computer Programming (CMPG)</code>** course at Georgian College
+<div align="center">
+I recently graduated from <code>Diploma in Computer Programming<code> course at Georgian College and have since gained expertise in Frontend, Backend, Database Management and most recently, Cloud Computing.
+</div>
+
+
+```json
+{
+   "fname":"Kunjesh",
+   "lname":"Ramani",
+   "email":"kunjeshramani@gmail.com",
+   "portfolio":"https://kunjeshramani.ca",
+   "profession":"Full-stack Developer",
+   "working on":"Cloud Computing",
+   "languages":[
+      "Java",
+      "Swift",
+      "Python Core"
+   ],
+   "databases":[
+      "MySQL",
+      "Microsoft SQL"
+   ],
+   "web development":[
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "MERN",
+      "Bootstrap"
+   ],
+   "version control":[
+      "Git",
+      "GitHub",
+      "BitBucket"
+   ],
+   "cloud":[
+      "AWS",
+      "Azure",
+      "GCP"
+   ],
+   "tools":[
+      "Visual Studio Code",
+      "Visual Studio",
+      "Android Studio",
+      "XCode",
+      "IntelliJ",
+      "Eclipse"
+   ],
+   "country": "Canada"
+}
+```
+<!--
 
 # 🌐<code>Socials</code>
 
@@ -22,7 +71,15 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div><br><br>
 
+
+-->
+
+<div align="center">
+
 # 💻<code>Tech Stack</code>
+
+</div>
+
 
 <div style="display: inline_block"><br>
   <img height="40" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -64,6 +121,20 @@
   <img height="40" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
   <img height="40" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />  
   <img height="40" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />  
+
+
+  <img height="40" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />  
+
+  <img height="40" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />  
+
+
+  <img height="40" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />  
+
+
+
+          
+
+  
   <img height="40" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
   <img height="40" align="center" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
 
@@ -71,30 +142,31 @@
 
   <br><br>
 
-# 📊<code>GitHub Stats</code>
-<div align='center'>
 
+
+
+<div align="center">
+
+# 📊<code>GitHub Stats</code>
+
+</div>
+
+<div align='center'>
 
    <a href="https://github.com/alsiam"><img alt="Kunjesh Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Kunjesh9867&langs_count=8&layout=compact&theme=radical&hide_border=true" height="192px" width="49.5%"/></a>
 
    <a><img src="https://github-readme-stats.zohan.tech/api?username=Kunjesh9867&show_icons=true&theme=radical&hide_border=true"> </a>
-  
-
    
-  <a href="https://github.com/Kunjesh9867"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunjesh9867&theme=radical&hide_border=false" alt="Kunjesh GitHub streak"/> </a>
+  <a href="https://github.com/Kunjesh9867"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunjesh9867&theme=radical&hide_border=true" alt="Kunjesh GitHub streak"/> </a>
   </br></br>
   <a href="https://github.com/Kunjesh9867"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kunjesh9867&theme=radical" alt="Kunjesh GitHub Contribution"/></a>
-
 
   <!-- <a href="https://github.com/Kunjesh9867"><img alt="Kunjesh Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Kunjesh9867&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" height="192px" width="49.5%"/></a> -->
 </div>
 
-
-
 <!--
 ![Kunjesh Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kunjesh9867&theme=radical&hide_border=true&custom_title=Kunjesh%20Ramani's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 -->
-
 
 <!-- <div align='center'> <img src="./icons/github-contribution-grid-snake-dark.svg" /></div> -->
 <h1 align="center">Thanks for Visiting my GitHub Profile!</h1>
