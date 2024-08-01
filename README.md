@@ -14,7 +14,7 @@ I recently graduated with <code>Diploma in Computer Programming</code> course an
 
 
 
-<h2>
+<h3>
 
 ```json
 {
@@ -73,7 +73,7 @@ I recently graduated with <code>Diploma in Computer Programming</code> course an
 }
 ```
 
-</h2>
+</h3>
 
 
 
