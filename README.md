@@ -5,7 +5,7 @@
 
 <div align="center">
 
-I recently graduated with <code>Diploma in Computer Programming</code> course and have since gained expertise in Frontend, Backend, Database Management and most recently, Cloud Computing. I enjoy solving coding problems and participating in Hackathons.
+I recently graduated with <code><b>Diploma in Computer Programming</b></code> course and have since gained expertise in Frontend, Backend, Database Management and most recently, Cloud Computing. I enjoy solving coding problems and participating in Hackathons.
 
 
 
