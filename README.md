@@ -20,7 +20,7 @@ I recently graduated with <code><b>Diploma in Computer Programming</b></code> co
 {
    "fname":"Kunjesh",
    "lname":"Ramani",
-   "email":"kunjeshramani.notes@gmail.com",
+   "email":"kunjesh@kunjeshramani.ca",
    "portfolio":"https://kunjeshramani.ca",
    "linkedin": "https://www.linkedin.com/in/kunjeshramani",
    "profession":"Full-stack Developer",
