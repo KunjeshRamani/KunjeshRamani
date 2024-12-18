@@ -33,12 +33,12 @@ I recently graduated with <code><b>Diploma in Computer Programming</b></code> co
    ],
    "languages":[
       "Java",
-      "Swift",
+      "Swift"
    ],
    "databases":[
       "MySQL",
       "Microsoft SQL",
-      "PostgreSQL",
+      "PostgreSQL"
    ],
    "web development":[
       "HTML",
@@ -49,7 +49,7 @@ I recently graduated with <code><b>Diploma in Computer Programming</b></code> co
       "Bootstrap",
       "MongoDB",
       "Supabase",
-      "Node.js",
+      "Node.js"
    ],
    "version controls":[
       "Git",
@@ -59,13 +59,13 @@ I recently graduated with <code><b>Diploma in Computer Programming</b></code> co
    "clouds":[
       "Amazon Web Services",
       "Microsoft Azure",
-      "Google Cloud Platform",
+      "Google Cloud Platform"
    ],
    "tools":[
       "Visual Studio Code",
       "Visual Studio",
       "Android Studio",
-      "XCode",
+      "XCode", 
       "IntelliJ",
       "Eclipse"
    ]
@@ -133,7 +133,7 @@ I recently graduated with <code><b>Diploma in Computer Programming</b></code> co
   <img height="40" align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img height="40" align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img height="40" align="center" height="40" width="40" src="./icons/selenium-svgrepo-com.svg" />
-  
+
   <img height="40" align="center" height="40" width="40" src="./icons/Custom-Icon-Design-Flatastic-9-Xml-tool.512.png" />
 
   <img height="40" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
