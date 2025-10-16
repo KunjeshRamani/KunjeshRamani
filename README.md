@@ -17,7 +17,6 @@ I recently graduated with <code><b>Diploma in Computer Programming</b></code> co
    "lname":"Ramani",
    "email":"kunjeshramani@gmail.com",
    "portfolio":"https://kunjeshramani.netlify.app",
-   "Decentralized portfolio":"kunjeshramani.brave",
    "linkedin": "https://www.linkedin.com/in/kunjeshramani",
    "profession":"Full-stack Developer",
    "working on":"Cloud Computing",
@@ -183,3 +182,4 @@ I recently graduated with <code><b>Diploma in Computer Programming</b></code> co
 <!-- <div align='center'> <img src="./icons/github-contribution-grid-snake-dark.svg" /></div> -->
 <h1 align="center">Thanks for Visiting my GitHub Profile!</h1>
 <p align="center"></p>
+
