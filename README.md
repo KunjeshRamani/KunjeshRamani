@@ -21,7 +21,8 @@ I recently graduated with <code>Diploma in Computer Programming</code> course an
    "fname":"Kunjesh",
    "lname":"Ramani",
    "email":"kunjeshramani@gmail.com",
-   "portfolio":"https://kunjeshramani.ca",
+   "portfolio":"https://kunjeshramani.netlify.app",
+   "Decentralized portfolio":"kunjeshramani.brave",
    "linkedin": "https://www.linkedin.com/in/kunjeshramani",
    "profession":"Full-stack Developer",
    "working on":"Cloud Computing",
@@ -32,12 +33,14 @@ I recently graduated with <code>Diploma in Computer Programming</code> course an
       "Google",
       "Oracle",
       "GitHub",
+      "CompTIA",
       "CCNA",
       "IBM SkillsBuild",
       "Udemy"
    ],
    "languages":[
       "Java",
+      "C",
       "Swift",
       "Python Core"
    ],
@@ -174,13 +177,13 @@ I recently graduated with <code>Diploma in Computer Programming</code> course an
 
 <div align='center'>
 
-   <a href="https://github.com/alsiam"><img alt="Kunjesh Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Kunjesh9867&langs_count=8&layout=compact&theme=radical&hide_border=true" height="192px" width="49.5%"/></a>
+   <a href="https://github.com/alsiam"><img alt="Kunjesh Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=KunjeshRamani&langs_count=8&layout=compact&theme=radical&hide_border=true" height="192px" width="49.5%"/></a>
 
-   <a><img src="https://github-readme-stats.zohan.tech/api?username=Kunjesh9867&show_icons=true&theme=radical&hide_border=true"> </a>
+   <a><img src="https://github-readme-stats.zohan.tech/api?username=KunjeshRamani&show_icons=true&theme=radical&hide_border=true"> </a>
    
-  <a href="https://github.com/Kunjesh9867"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunjesh9867&theme=radical&hide_border=true" alt="Kunjesh GitHub streak"/> </a>
+  <a href="https://github.com/KunjeshRamani"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KunjeshRamani&theme=radical&hide_border=true" alt="Kunjesh GitHub streak"/> </a>
   </br></br>
-  <a href="https://github.com/Kunjesh9867"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kunjesh9867&theme=radical" alt="Kunjesh GitHub Contribution"/></a>
+  <a href="https://github.com/KunjeshRamani"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KunjeshRamani&theme=radical" alt="Kunjesh GitHub Contribution"/></a>
 
   <!-- <a href="https://github.com/Kunjesh9867"><img alt="Kunjesh Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Kunjesh9867&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" height="192px" width="49.5%"/></a> -->
 </div>
