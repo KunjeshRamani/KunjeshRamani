@@ -5,14 +5,9 @@
 
 <div align="center">
 
-I recently graduated with <code>Diploma in Computer Programming</code> course and have since gained expertise in Frontend, Backend, Database Management and most recently, Cloud Computing. I enjoy solving coding problems and participating in Hackathons.
-
-
+I recently graduated with <code><b>Diploma in Computer Programming</b></code> course and have since gained expertise in Frontend, Backend, Database Management and most recently, Cloud Computing. I enjoy solving coding problems and participating in Hackathons.
 
 </div>
-
-
-
 
 <h3>
 
@@ -30,7 +25,7 @@ I recently graduated with <code>Diploma in Computer Programming</code> course an
    "certifications":[
       "AWS",
       "Microsoft",
-      "Google",
+      "Google Cloud",
       "Oracle",
       "GitHub",
       "CompTIA",
@@ -46,14 +41,19 @@ I recently graduated with <code>Diploma in Computer Programming</code> course an
    ],
    "databases":[
       "MySQL",
-      "Microsoft SQL"
+      "Microsoft SQL",
+      "PostgreSQL"
    ],
    "web development":[
       "HTML",
       "CSS",
+      "Tailwind CSS",
       "JavaScript",
-      "MERN",
-      "Bootstrap"
+      "React",
+      "Bootstrap",
+      "MongoDB",
+      "Supabase",
+      "Node.js"
    ],
    "version controls":[
       "Git",
@@ -61,15 +61,15 @@ I recently graduated with <code>Diploma in Computer Programming</code> course an
       "BitBucket"
    ],
    "clouds":[
-      "AWS",
-      "Azure",
-      "GCP"
+      "Amazon Web Services",
+      "Microsoft Azure",
+      "Google Cloud Platform"
    ],
    "tools":[
       "Visual Studio Code",
       "Visual Studio",
       "Android Studio",
-      "XCode",
+      "XCode", 
       "IntelliJ",
       "Eclipse"
    ]
@@ -78,14 +78,12 @@ I recently graduated with <code>Diploma in Computer Programming</code> course an
 
 </h3>
 
-
-
 <!--
 
 # 🌐<code>Socials</code>
 
 <div display: inline_block "><br>
-  <a href = "https://www.linkedin.com/in/kunjesh-ramani-989a27206/"> <img height="40" align="center" src="https://icongr.am/fontawesome/linkedin-square.svg?size=128&color=3b5998"></a>
+  <a href = "https://www.linkedin.com/in/kunjeshramani"> <img height="40" align="center" src="https://icongr.am/fontawesome/linkedin-square.svg?size=128&color=3b5998"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href = "https://www.quora.com/profile/Kunjesh-Ramani-1"> <img height="40" align="center" src="https://icongr.am/fontawesome/quora.svg?size=128&color=b92b27"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -97,7 +95,6 @@ I recently graduated with <code>Diploma in Computer Programming</code> course an
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div><br><br>
-
 
 -->
 
@@ -140,34 +137,25 @@ I recently graduated with <code>Diploma in Computer Programming</code> course an
   <img height="40" align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img height="40" align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img height="40" align="center" height="40" width="40" src="./icons/selenium-svgrepo-com.svg" />
+
   <img height="40" align="center" height="40" width="40" src="./icons/Custom-Icon-Design-Flatastic-9-Xml-tool.512.png" />
 
   <img height="40" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
   <img height="40" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />  
   <img height="40" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />  
 
-
   <img height="40" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />  
 
   <img height="40" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />  
 
-
   <img height="40" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />  
 
-
-
-          
-
-  
   <img height="40" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
   <img height="40" align="center" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
 
   <img height="40" align="center" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
 
   <br>
-
-
-
 
 <div align="center">
 
@@ -180,7 +168,7 @@ I recently graduated with <code>Diploma in Computer Programming</code> course an
    <a href="https://github.com/alsiam"><img alt="Kunjesh Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=KunjeshRamani&langs_count=8&layout=compact&theme=radical&hide_border=true" height="192px" width="49.5%"/></a>
 
    <a><img src="https://github-readme-stats.zohan.tech/api?username=KunjeshRamani&show_icons=true&theme=radical&hide_border=true"> </a>
-   
+
   <a href="https://github.com/KunjeshRamani"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KunjeshRamani&theme=radical&hide_border=true" alt="Kunjesh GitHub streak"/> </a>
   </br></br>
   <a href="https://github.com/KunjeshRamani"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KunjeshRamani&theme=radical" alt="Kunjesh GitHub Contribution"/></a>
