@@ -15,7 +15,7 @@ I graduated with <code><b>Diploma in Computer Programming</b></code> course and 
 {
    "fname":"Kunjesh",
    "lname":"Ramani",
-   "email":"kunjeshramani@gmail.com",
+   "email":"kunjeshramani@hotmail.com",
    "portfolio":"https://kunjeshramani.netlify.app",
    "linkedin": "https://www.linkedin.com/in/kunjeshramani",
    "profession":"Full-stack Developer",
@@ -215,4 +215,5 @@ I graduated with <code><b>Diploma in Computer Programming</b></code> course and 
 <!-- <div align='center'> <img src="./icons/github-contribution-grid-snake-dark.svg" /></div> -->
 <h1 align="center">Thanks for Visiting my GitHub Profile!</h1>
 <p align="center"></p>
+
 
