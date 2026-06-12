@@ -1,4 +1,6 @@
-<img src="https://i.imgur.com/wcDXLFd.gif" width="100%">
+<!-- <img src="https://i.imgur.com/wcDXLFd.gif" width="100%"> -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Ubuntu_20.04_Desktop_animated_GIF.gif" width="100%">
+
 <h1 align="center"><b>Hi 👋, I'm Kunjesh Ramani</b></h1>
 
 <h3 align="center"><b>A Computer Science Student</b></h3>
