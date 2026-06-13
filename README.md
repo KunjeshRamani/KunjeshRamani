@@ -17,12 +17,11 @@ I graduated with <code><b>Diploma in Computer Programming</b></code> course and 
 {
    "fname":"Kunjesh",
    "lname":"Ramani",
-   "email":"kunjeshramani@hotmail.com",
+   "email":"kunjeshramani@tutamail.com",
    "portfolio":"https://kunjeshramani.netlify.app",
    "linkedin": "https://www.linkedin.com/in/kunjeshramani",
    "profession":"Full-stack Developer",
    "working on":"Cloud Computing",
-   "country": "Canada",
    "certifications":[
       "AWS",
       "Microsoft",
@@ -35,26 +34,22 @@ I graduated with <code><b>Diploma in Computer Programming</b></code> course and 
       "Udemy"
    ],
    "languages":[
+      "Python",
       "Java",
-      "C",
-      "Swift",
-      "Python Core"
+      "JavaScript",
+      "Swift"
    ],
    "databases":[
-      "MySQL",
-      "Microsoft SQL",
-      "PostgreSQL"
+      "MySQL"
    ],
    "web development":[
       "HTML",
       "CSS",
-      "Tailwind CSS",
+      "SASS/SCSS",
       "JavaScript",
-      "React",
       "Bootstrap",
-      "MongoDB",
-      "Supabase",
-      "Node.js"
+      "Vue.js",
+      "MongoDB"
    ],
    "version controls":[
       "Git",
@@ -64,14 +59,15 @@ I graduated with <code><b>Diploma in Computer Programming</b></code> course and 
    "clouds":[
       "Amazon Web Services",
       "Microsoft Azure",
-      "Google Cloud Platform"
+      "Google Cloud Platform",
+      "Oracle Cloud"
    ],
    "tools":[
       "Visual Studio Code",
       "Visual Studio",
       "Android Studio",
       "XCode", 
-      "IntelliJ",
+      "JetBrains",
       "Eclipse"
    ]
 }
