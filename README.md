@@ -19,7 +19,7 @@ I graduated with <code><b>Diploma in Computer Programming</b></code> course and 
    "lname":"Ramani",
    "email":"kunjeshramani@tutamail.com",
    "portfolio":"https://kunjeshramani.com"
-  "linkedin": "https://www.linkedin.com/in/kunjeshramani",
+   "linkedin": "https://www.linkedin.com/in/kunjeshramani",
    "profession":"Full-stack Developer",
    "working on":"Cloud Computing",
    "certifications":[
