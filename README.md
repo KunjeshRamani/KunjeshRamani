@@ -1,105 +1,18 @@
-<!-- <img src="https://i.imgur.com/wcDXLFd.gif" width="100%"> -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Ubuntu_20.04_Desktop_animated_GIF.gif" width="100%">
+<img src="./kunjesh_top_banner.png" width="100%">
 
-<h1 align="center"><b>Hi 👋, I'm Kunjesh Ramani</b></h1>
+<h1 align="center"><b>A Computer Science Student</b></h3>
 
-<h3 align="center"><b>A Computer Science Student</b></h3>
 
-<div align="center">
 
-I graduated with <code><b>Diploma in Computer Programming</b></code> course and have since gained expertise in Frontend, Backend, Database Management and most recently, Cloud Computing. I enjoy solving coding problems and participating in Hackathons.
 
-</div>
-
-<h3>
-
-```json
-{
-   "fname":"Kunjesh",
-   "lname":"Ramani",
-   "email":"kunjeshramani@tutamail.com",
-   "portfolio":"https://kunjeshramani.com"
-   "linkedin": "https://www.linkedin.com/in/kunjeshramani",
-   "profession":"Full-stack Developer",
-   "working on":"Cloud Computing",
-   "certifications":[
-      "AWS",
-      "Microsoft",
-      "Google Cloud",
-      "Oracle",
-      "GitHub",
-      "CompTIA",
-      "CCNA",
-      "IBM SkillsBuild",
-      "Udemy"
-   ],
-   "languages":[
-      "Python",
-      "Java",
-      "JavaScript",
-      "Swift"
-   ],
-   "databases":[
-      "MySQL"
-   ],
-   "web development":[
-      "HTML",
-      "CSS",
-      "SASS/SCSS",
-      "JavaScript",
-      "Bootstrap",
-      "Vue.js",
-      "MongoDB"
-   ],
-   "version controls":[
-      "Git",
-      "GitHub",
-      "BitBucket"
-   ],
-   "clouds":[
-      "Amazon Web Services",
-      "Microsoft Azure",
-      "Google Cloud Platform",
-      "Oracle Cloud"
-   ],
-   "tools":[
-      "Visual Studio Code",
-      "Visual Studio",
-      "Android Studio",
-      "XCode", 
-      "JetBrains",
-      "Eclipse"
-   ]
-}
-```
-
-</h3>
-
-<!--
-
-# 🌐<code>Socials</code>
-
-<div display: inline_block "><br>
-  <a href = "https://www.linkedin.com/in/kunjeshramani"> <img height="40" align="center" src="https://icongr.am/fontawesome/linkedin-square.svg?size=128&color=3b5998"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href = "https://www.quora.com/profile/Kunjesh-Ramani-1"> <img height="40" align="center" src="https://icongr.am/fontawesome/quora.svg?size=128&color=b92b27"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href = "https://stackoverflow.com/users/16986113"> <img height="40" align="center" width="40" src="https://icongr.am/fontawesome/stack-overflow.svg?size=128&color=f47f24"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href = "https://www.w3profile.com/Kunjesh9867"> <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/W3Schools_logo.svg"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href = "https://www.hackerrank.com/kunjeshramani981?hr_r=1"> <img height="40" align="center" src="https://icongr.am/fontawesome/header.svg?size=128&color=378936"></a>
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</div><br><br>
-
--->
-
-<div align="center">
-
+# <code>About Me</code>
+- I have completed a ```Dipolma in Computer Programming``` course from Georgian College.
+- My primary interests include Web Development, Python Programing, DSA, and Cloud Computing.
+- I have earned 30+ globally recognized certifications from leading technology companies, including Oracle, Microsoft, AWS, Google Cloud, GitHub, and CompTIA.
+- In my leisure time, I try to indulge in tech-related books.
 # 💻<code>Tech Stack</code>
 
-</div>
+
 
 <div align="left">
 
