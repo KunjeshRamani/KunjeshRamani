@@ -1,11 +1,17 @@
 <img src="./kunjesh_top_banner.png" width="100%">
 
-<h1 align="center"><b>A Computer Science Student</b></h3>
+![](https://komarev.com/ghpvc/?username=kunjeshramani&label=Profile%20Views&color=e81cd0&style=plastic)
 
+<div>
+<h1 align="center"><b>A Computer Science Student</b></h1>
+</div>
 
 
 
 # <code>About Me</code>
+
+
+
 - I have completed a ```Dipolma in Computer Programming``` course from Georgian College.
 - My primary interests include Web Development, Python Programing, DSA, and Cloud Computing.
 - I have earned 30+ globally recognized certifications from leading technology companies, including Oracle, Microsoft, AWS, Google Cloud, GitHub, and CompTIA.
@@ -126,5 +132,7 @@
 <!-- <div align='center'> <img src="./icons/github-contribution-grid-snake-dark.svg" /></div> -->
 <h1 align="center">Thanks for Visiting my GitHub Profile!</h1>
 <p align="center"></p>
+
+
 
 
