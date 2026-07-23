@@ -1,6 +1,7 @@
+![](https://komarev.com/ghpvc/?username=kunjeshramani&label=Profile%20Views&color=e81cd0&style=plastic)
+
 <img src="./kunjesh_top_banner.png" width="100%">
 
-![](https://komarev.com/ghpvc/?username=kunjeshramani&label=Profile%20Views&color=e81cd0&style=plastic)
 
 <div>
 <h1 align="center"><b>A Computer Science Student</b></h1>
